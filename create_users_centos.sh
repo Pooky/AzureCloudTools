@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Author: Martin Klíma 
+# Email:  martin.klima@softwarecraft.cz
+# Page:   www.softwarecraft.cz
+
 PASSWD=DefaultPassword12345
 for USER in "$@"
 do
